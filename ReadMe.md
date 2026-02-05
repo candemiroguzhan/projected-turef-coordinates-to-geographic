@@ -1,6 +1,6 @@
 ﻿# 📐 Projected Turef Coordinates to Geographic
 
-[![Stars](https://img.shields.io/github/stars/candemiroguz/projected-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-coordinates-to-geographic/stargazers) [![Forks](https://img.shields.io/github/forks/candemiroguzhan/projected-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-coordinates-to-geographic/network/members) [![Issues](https://img.shields.io/github/issues/candemiroguzhan/projected-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-coordinates-to-geographic/issues) [![Contributors](https://img.shields.io/github/contributors/candemiroguzhan/projected-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-coordinates-to-geographic/graphs/contributors) [![.NET](https://img.shields.io/badge/.NET-9.0-blue?style=flat)](https://dotnet.microsoft.com/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](./LICENSE)
+[![Stars](https://img.shields.io/github/stars/candemiroguzhan/projected-turef-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-turef-coordinates-to-geographic/stargazers) [![Forks](https://img.shields.io/github/forks/candemiroguzhan/projected-turef-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-turef-coordinates-to-geographic/network/members) [![Issues](https://img.shields.io/github/issues/candemiroguzhan/projected-turef-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-turef-coordinates-to-geographic/issues) [![Contributors](https://img.shields.io/github/contributors/candemiroguzhan/projected-turef-coordinates-to-geographic?style=flat)](https://github.com/candemiroguzhan/projected-turef-coordinates-to-geographic/graphs/contributors) [![.NET](https://img.shields.io/badge/.NET-9.0-blue?style=flat)](https://dotnet.microsoft.com/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](./LICENSE)
 
 A lightweight .NET class library for converting 2D geometries projected in the TUREF Transverse Mercator (TM) system into geographic coordinates (latitude/longitude). Works well with NetTopologySuite and ProjNet and accepts WKT (Well-Known Text) geometries.
 
@@ -37,8 +37,8 @@ A lightweight .NET class library for converting 2D geometries projected in the T
 Clone the repository and build:
 
 ```powershell
-git clone https://github.com/candemiroguz/projected-coordinates-to-geographic.git
-cd projected-coordinates-to-geographic
+git clone https://github.com/candemiroguz/projected-turef-coordinates-to-geographic.git
+cd projected-turef-coordinates-to-geographic
 dotnet build -c Release
 ```
 
